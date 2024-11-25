@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1
-* Student ID: Not-Vietnamese
+* Student Name: DAO VIET LINH
+* Student ID: BI12-244
 * Student Group ID: Not-for-now
